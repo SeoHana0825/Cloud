@@ -51,6 +51,9 @@ S3를 이용해 서버 디스크에 저장한 팀원 정보를 서버 다운 시
     - API 요구사항
 
 - 발급받은 Presigned URL 1개와 해당 URL의 만료 시간
+<img width="428" height="325" alt="image" src="https://github.com/user-attachments/assets/4938b46a-409e-41b3-8e4c-03eae2229e10" />
+
+2026.02.10 7일 후 
 
 ---
 ## 4. 메인 프로젝트 
