@@ -1,0 +1,12 @@
+spring:
+  profiles:
+    active: local
+  application:
+    name: TaskCloud
+
+# 상태 모니터링 추가
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health

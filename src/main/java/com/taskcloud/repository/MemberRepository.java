@@ -1,0 +1,7 @@
+package com.taskcloud.repository;
+
+import com.taskcloud.entity.Member;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface MemberRepository extends JpaRepository<Member,Long> {
+}
